@@ -1,4 +1,4 @@
-﻿![image.png](/assets/upload\f7f02aa6-e9ca-4e04-b8fe-32df8f493215.jpg)
+﻿![image.png](http://www.songbo.info/assets/upload\f7f02aa6-e9ca-4e04-b8fe-32df8f493215.jpg)
 
 ### 任务目的
 `0.培养编程思维，提高分析问题能力`
@@ -42,7 +42,7 @@
 #### 实例
 上面的海龟命令，经过我们编写的程序解析后，会打印出下面的图形
 
-![image.png](/assets/upload\6d7f512c-64cc-4ec9-863d-34c6b6c4dc3f.jpg)
+![image.png](http://www.songbo.info/assets/upload\6d7f512c-64cc-4ec9-863d-34c6b6c4dc3f.jpg)
 ### 任务注意事项
 请注意代码风格的整齐、优雅
 代码中含有必要的注释
